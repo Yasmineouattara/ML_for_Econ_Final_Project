@@ -1,1 +1,1 @@
-# Machine Learning for Economist Final Project
+# Machine Learning for Economists Final Project
